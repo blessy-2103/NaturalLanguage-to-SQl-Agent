@@ -1,0 +1,21 @@
+user_id,customer_name,email,order_id,product_name,category,total_amount,status
+1,Alice Feng,alice@corp.com,101,Quantum Laptop 15,Electronics,1299.99,Shipped
+1,Alice Feng,alice@corp.com,102,Mechanical Keyboard,Electronics,89.99,Shipped
+1,Alice Feng,alice@corp.com,103,4K UltraWide Monitor,Electronics,499.99,Delivered
+2,Bob Jones,bob@corp.com,104,Ergonomic Office Chair,Furniture,249.50,Delivered
+2,Bob Jones,bob@corp.com,105,Noise-Canceling Headphones,Electronics,199.99,Delivered
+2,Bob Jones,bob@corp.com,106,Wireless Trackpad,Electronics,129.00,Processing
+3,Carlos Santana,carlos@music.com,107,Bamboo Standing Desk,Furniture,449.99,Processing
+3,Carlos Santana,carlos@music.com,108,Electric Guitar Cable,Music,29.99,Delivered
+3,Carlos Santana,carlos@music.com,109,Studio Monitor Speakers,Electronics,299.00,Pending
+4,Evan Wright,evan.w@corp.com,110,Quantum Laptop 15,Electronics,1299.99,Pending
+4,Evan Wright,evan.w@corp.com,111,Leather Journal Notebook,Stationery,35.00,Delivered
+5,Grace Hopper,grace@compiler.org,112,Mechanical Keyboard,Electronics,120.00,Delivered
+5,Grace Hopper,grace@compiler.org,113,USB-C Docking Station,Electronics,179.99,Shipped
+6,Alan Turing,alan@enigma.gov,114,Cryptographic Padlock,Security,85.50,Delivered
+6,Alan Turing,alan@enigma.gov,115,Enigma History Book,Stationery,45.00,Delivered
+7,Ada Lovelace,ada@analytical.net,116,Ergonomic Office Chair,Furniture,249.50,Shipped
+7,Ada Lovelace,ada@analytical.net,117,Bamboo Standing Desk,Furniture,449.99,Processing
+7,Ada Lovelace,ada@analytical.net,118,Mathematical Blueprint Kit,Stationery,150.00,Delivered
+8,Linus Torvalds,linus@linux.org,119,Open-Source Penguin Plush,Toys,25.00,Delivered
+8,Linus Torvalds,linus@linux.org,120,AMD Ryzen CPU Upgrade,Electronics,399.99,Processing
